@@ -16,3 +16,4 @@ C:\Users\UserPC\source\repos\AfishaBackend\AfishaBackend\bin\Debug\net8.0\Newton
 C:\Users\UserPC\source\repos\AfishaBackend\AfishaBackend\obj\Debug\net8.0\AfishaBackend.csproj.AssemblyReference.cache
 C:\Users\UserPC\source\repos\AfishaBackend\AfishaBackend\obj\Debug\net8.0\AfishaBa.F4361778.Up2Date
 C:\Users\UserPC\source\repos\AfishaBackend\AfishaBackend\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\UserPC\source\repos\AfishaBackend\AfishaBackend\obj\Debug\net8.0\AfishaBackend.sourcelink.json

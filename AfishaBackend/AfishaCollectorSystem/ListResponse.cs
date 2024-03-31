@@ -29,7 +29,7 @@ namespace AfishaBackend.AfishaCollectorSystem
 		public override Afisha getResponse(HttpListenerRequest request)
 		{
 			var queryDictionary = System.Web.HttpUtility.ParseQueryString(request.Url?.Query ?? "");
-			return collector.Get(queryDictionary["id"] ?? "");
+			return collector.Get(queryDictionary["id"]?.Replace("/", "") ?? "");
 		}
 	}
 }

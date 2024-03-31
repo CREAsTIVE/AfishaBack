@@ -25,7 +25,8 @@ void parseFiles(string directory)
 
 var collector = new Collector("databases/afishas.json");
 
-collector.afishaGetters.Add(new YandexAfishaGetter(logger));
+collector.afishaGetters.Add(new YandexAfishaGetter(logger)); // Сборщик афиш с яндекса
+collector.afishaGetters.Add(new PermCassaAfishaGetter()); // Сборщик афиш с кассы
 
 server.BindPath("/getAfishes", new ListResponse(collector));
 server.BindPath("/getAfisha", new SingleResponse(collector));

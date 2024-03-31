@@ -1,0 +1,7 @@
+C:\Users\UserPC\source\repos\AfishaBackend\AfishaBackend\bin\Release\net8.0\publish\AfishaBackend.exe
+C:\Users\UserPC\source\repos\AfishaBackend\AfishaBackend\bin\Release\net8.0\publish\AfishaBackend.dll
+C:\Users\UserPC\source\repos\AfishaBackend\AfishaBackend\bin\Release\net8.0\publish\AfishaBackend.deps.json
+C:\Users\UserPC\source\repos\AfishaBackend\AfishaBackend\bin\Release\net8.0\publish\AfishaBackend.runtimeconfig.json
+C:\Users\UserPC\source\repos\AfishaBackend\AfishaBackend\bin\Release\net8.0\publish\AfishaBackend.pdb
+C:\Users\UserPC\source\repos\AfishaBackend\AfishaBackend\bin\Release\net8.0\publish\HtmlAgilityPack.dll
+C:\Users\UserPC\source\repos\AfishaBackend\AfishaBackend\bin\Release\net8.0\publish\Newtonsoft.Json.dll

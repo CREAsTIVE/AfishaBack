@@ -14,7 +14,6 @@ namespace AfishaBackend.AfishaCollectorSystem
 	public interface AfishaGetter
 	{
 		public List<Afisha> Get();
-		public Afisha? Get(string index);
 	}
 	public class Collector
 	{

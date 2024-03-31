@@ -3,31 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\UserPC\\source\\repos\\AfishaBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9A6C69C-C2B1-4516-9E65-FC298E8A5C98}|AfishaBackend\\AfishaBackend.csproj|c:\\users\\userpc\\source\\repos\\afishabackend\\afishabackend\\afishacollectorsystem\\listresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9A6C69C-C2B1-4516-9E65-FC298E8A5C98}|AfishaBackend\\AfishaBackend.csproj|solutionrelative:afishabackend\\afishacollectorsystem\\listresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\UserPC\\AppData\\Local\\SourceServer\\35d53eefb2dd5b8c2546b6d99c92b25c9c21958c68506f9661bd2584160a55e4\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\Dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9A6C69C-C2B1-4516-9E65-FC298E8A5C98}|AfishaBackend\\AfishaBackend.csproj|c:\\users\\userpc\\source\\repos\\afishabackend\\afishabackend\\afishacollectorsystem\\collector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9A6C69C-C2B1-4516-9E65-FC298E8A5C98}|AfishaBackend\\AfishaBackend.csproj|solutionrelative:afishabackend\\afishacollectorsystem\\collector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B9A6C69C-C2B1-4516-9E65-FC298E8A5C98}|AfishaBackend\\AfishaBackend.csproj|c:\\users\\userpc\\source\\repos\\afishabackend\\afishabackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9A6C69C-C2B1-4516-9E65-FC298E8A5C98}|AfishaBackend\\AfishaBackend.csproj|solutionrelative:afishabackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9A6C69C-C2B1-4516-9E65-FC298E8A5C98}|AfishaBackend\\AfishaBackend.csproj|c:\\users\\userpc\\source\\repos\\afishabackend\\afishabackend\\afishacollectorsystem\\afisha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9A6C69C-C2B1-4516-9E65-FC298E8A5C98}|AfishaBackend\\AfishaBackend.csproj|solutionrelative:afishabackend\\afishacollectorsystem\\afisha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9A6C69C-C2B1-4516-9E65-FC298E8A5C98}|AfishaBackend\\AfishaBackend.csproj|c:\\users\\userpc\\source\\repos\\afishabackend\\afishabackend\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A6C69C-C2B1-4516-9E65-FC298E8A5C98}|AfishaBackend\\AfishaBackend.csproj|solutionrelative:afishabackend\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\UserPC\\AppData\\Local\\SourceServer\\309c8dfc5030d3cf23be8900b9dbafc30cc3a161a4f8a96003ad952921cae739\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\List.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A6C69C-C2B1-4516-9E65-FC298E8A5C98}|AfishaBackend\\AfishaBackend.csproj|c:\\users\\userpc\\source\\repos\\afishabackend\\afishabackend\\afishacollectorsystem\\permcassaafishagetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A6C69C-C2B1-4516-9E65-FC298E8A5C98}|AfishaBackend\\AfishaBackend.csproj|solutionrelative:afishabackend\\afishacollectorsystem\\permcassaafishagetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A6C69C-C2B1-4516-9E65-FC298E8A5C98}|AfishaBackend\\AfishaBackend.csproj|c:\\users\\userpc\\source\\repos\\afishabackend\\afishabackend\\afishacollectorsystem\\listresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A6C69C-C2B1-4516-9E65-FC298E8A5C98}|AfishaBackend\\AfishaBackend.csproj|solutionrelative:afishabackend\\afishacollectorsystem\\listresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9A6C69C-C2B1-4516-9E65-FC298E8A5C98}|AfishaBackend\\AfishaBackend.csproj|c:\\users\\userpc\\source\\repos\\afishabackend\\afishabackend\\afishacollectorsystem\\yandexafishagetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9A6C69C-C2B1-4516-9E65-FC298E8A5C98}|AfishaBackend\\AfishaBackend.csproj|solutionrelative:afishabackend\\afishacollectorsystem\\yandexafishagetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9A6C69C-C2B1-4516-9E65-FC298E8A5C98}|AfishaBackend\\AfishaBackend.csproj|c:\\users\\userpc\\source\\repos\\afishabackend\\afishabackend\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9A6C69C-C2B1-4516-9E65-FC298E8A5C98}|AfishaBackend\\AfishaBackend.csproj|solutionrelative:afishabackend\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9A6C69C-C2B1-4516-9E65-FC298E8A5C98}|AfishaBackend\\AfishaBackend.csproj|c:\\users\\userpc\\source\\repos\\afishabackend\\afishabackend\\afishacollectorsystem\\collector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A6C69C-C2B1-4516-9E65-FC298E8A5C98}|AfishaBackend\\AfishaBackend.csproj|solutionrelative:afishabackend\\afishacollectorsystem\\collector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A6C69C-C2B1-4516-9E65-FC298E8A5C98}|AfishaBackend\\AfishaBackend.csproj|c:\\users\\userpc\\source\\repos\\afishabackend\\afishabackend\\afishacollectorsystem\\afisha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A6C69C-C2B1-4516-9E65-FC298E8A5C98}|AfishaBackend\\AfishaBackend.csproj|solutionrelative:afishabackend\\afishacollectorsystem\\afisha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,37 +41,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Dictionary.cs",
-              "DocumentMoniker": "C:\\Users\\UserPC\\AppData\\Local\\SourceServer\\35d53eefb2dd5b8c2546b6d99c92b25c9c21958c68506f9661bd2584160a55e4\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\Dictionary.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\35d53eefb2dd5b8c2546b6d99c92b25c9c21958c68506f9661bd2584160a55e4\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\Dictionary.cs",
-              "ToolTip": "C:\\Users\\UserPC\\AppData\\Local\\SourceServer\\35d53eefb2dd5b8c2546b6d99c92b25c9c21958c68506f9661bd2584160a55e4\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\Dictionary.cs",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\35d53eefb2dd5b8c2546b6d99c92b25c9c21958c68506f9661bd2584160a55e4\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\Dictionary.cs",
-              "ViewState": "AQIAANkAAAAAAAAAAAD4v+gAAAAQAAAA",
+              "DocumentIndex": 2,
+              "Title": "List.cs",
+              "DocumentMoniker": "C:\\Users\\UserPC\\AppData\\Local\\SourceServer\\309c8dfc5030d3cf23be8900b9dbafc30cc3a161a4f8a96003ad952921cae739\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\List.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\309c8dfc5030d3cf23be8900b9dbafc30cc3a161a4f8a96003ad952921cae739\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\List.cs",
+              "ToolTip": "C:\\Users\\UserPC\\AppData\\Local\\SourceServer\\309c8dfc5030d3cf23be8900b9dbafc30cc3a161a4f8a96003ad952921cae739\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\List.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\309c8dfc5030d3cf23be8900b9dbafc30cc3a161a4f8a96003ad952921cae739\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\List.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAADwv5UAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T03:14:55.37Z",
+              "WhenOpened": "2024-03-31T05:29:06.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "PermCassaAfishaGetter.cs",
+              "DocumentMoniker": "C:\\Users\\UserPC\\source\\repos\\AfishaBackend\\AfishaBackend\\AfishaCollectorSystem\\PermCassaAfishaGetter.cs",
+              "RelativeDocumentMoniker": "AfishaBackend\\AfishaCollectorSystem\\PermCassaAfishaGetter.cs",
+              "ToolTip": "C:\\Users\\UserPC\\source\\repos\\AfishaBackend\\AfishaBackend\\AfishaCollectorSystem\\PermCassaAfishaGetter.cs",
+              "RelativeToolTip": "AfishaBackend\\AfishaCollectorSystem\\PermCassaAfishaGetter.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwCIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T05:13:22.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ListResponse.cs",
               "DocumentMoniker": "C:\\Users\\UserPC\\source\\repos\\AfishaBackend\\AfishaBackend\\AfishaCollectorSystem\\ListResponse.cs",
               "RelativeDocumentMoniker": "AfishaBackend\\AfishaCollectorSystem\\ListResponse.cs",
               "ToolTip": "C:\\Users\\UserPC\\source\\repos\\AfishaBackend\\AfishaBackend\\AfishaCollectorSystem\\ListResponse.cs",
               "RelativeToolTip": "AfishaBackend\\AfishaCollectorSystem\\ListResponse.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAqwCMAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwB8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T03:08:35.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Afisha.cs",
               "DocumentMoniker": "C:\\Users\\UserPC\\source\\repos\\AfishaBackend\\AfishaBackend\\AfishaCollectorSystem\\Afisha.cs",
               "RelativeDocumentMoniker": "AfishaBackend\\AfishaCollectorSystem\\Afisha.cs",
@@ -80,13 +97,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Collector.cs",
               "DocumentMoniker": "C:\\Users\\UserPC\\source\\repos\\AfishaBackend\\AfishaBackend\\AfishaCollectorSystem\\Collector.cs",
               "RelativeDocumentMoniker": "AfishaBackend\\AfishaCollectorSystem\\Collector.cs",
               "ToolTip": "C:\\Users\\UserPC\\source\\repos\\AfishaBackend\\AfishaBackend\\AfishaCollectorSystem\\Collector.cs",
               "RelativeToolTip": "AfishaBackend\\AfishaCollectorSystem\\Collector.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAtwD4AAAAcAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAwA8AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T02:02:34.652Z",
               "EditorCaption": ""
@@ -106,26 +123,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "HttpServer.cs",
               "DocumentMoniker": "C:\\Users\\UserPC\\source\\repos\\AfishaBackend\\AfishaBackend\\HttpServer.cs",
               "RelativeDocumentMoniker": "AfishaBackend\\HttpServer.cs",
               "ToolTip": "C:\\Users\\UserPC\\source\\repos\\AfishaBackend\\AfishaBackend\\HttpServer.cs",
               "RelativeToolTip": "AfishaBackend\\HttpServer.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowDEAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T00:59:45.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UserPC\\source\\repos\\AfishaBackend\\AfishaBackend\\Program.cs",
               "RelativeDocumentMoniker": "AfishaBackend\\Program.cs",
               "ToolTip": "C:\\Users\\UserPC\\source\\repos\\AfishaBackend\\AfishaBackend\\Program.cs",
               "RelativeToolTip": "AfishaBackend\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAArwB4AAAAwAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBAAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T00:02:32.563Z",
               "EditorCaption": ""
